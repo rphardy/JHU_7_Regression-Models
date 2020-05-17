@@ -1,5 +1,4 @@
-# JHU_Regression
-
+# JHU Regression
 
 notes:  centre wt and hp variables for interpretation.
         build a model to predict mpg. 
